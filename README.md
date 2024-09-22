@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yousefAltear
+- 👀 I’m interested in C# and Dynamo Scripting
+- 🌱 I’m currently C#
+- 💞️ I’m looking to collaborate on Revit API
+- 📫 How to reach me https://www.linkedin.com/in/yousef-altear-070099167/
